@@ -28,7 +28,7 @@ To run this project locally, please follow these steps:
 3. Run the main script to train the SVM model and make predictions.
 
 
-4. The predicted loan status will be displayed in the console, and the results will be saved in a file named `loan_predictions.csv`.
+4. The predicted loan status will be displayed in the console.
 
 ## Dataset
 
